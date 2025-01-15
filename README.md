@@ -8,7 +8,7 @@ This project is a Telegram bot built with Node.js that integrates with Power Aut
 - Display form details to users in Telegram with inline keyboards for Approve/Reject actions.
   ![screenshot](./Images/image.png)
 - Send user responses (approval/rejection) back to Power Automate.
-  ![screenshot](./Images/Screenshot!.png)
+  ![screenshot](./Images/Screenshot1.png)
 
 
 ## Prerequisites
